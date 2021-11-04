@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/dirheimerb.lwc-kvld7iaq",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve GqkghjBIKiBzaOCXmyE3 --open"
+  }
+}
